@@ -1,0 +1,9 @@
+server:
+  port: 8085
+  tomcat:
+    uri-encoding: utf-8
+
+
+spring:
+  application:
+    name: spring-boot-admin-server
